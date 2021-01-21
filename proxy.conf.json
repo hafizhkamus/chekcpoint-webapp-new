@@ -1,0 +1,11 @@
+{
+    "/checkpointAuth/api": {
+        "target": "http://localhost:9001",
+        "secure" : false
+    },
+
+    "/checkpointService/api": {
+        "target": "http://localhost:9000",
+        "secure" : false
+    }
+}
